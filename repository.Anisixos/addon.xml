@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.Anisixos" name="[COLOR gold]Colossus Repository[/COLOR]" version="0.1" provider-name="Anisixos">
+<addon id="repository.Anisixos" name="Anisixos Repo" version="0.1" provider-name="Anisixos">
     <extension point="xbmc.addon.repository" name="Anisixos">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/Anisixos/repository.quicktest.common/master/addons.xml</info>
