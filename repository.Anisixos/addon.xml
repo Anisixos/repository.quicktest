@@ -2,13 +2,13 @@
 <addon id="repository.Anisixos" name="[COLOR gold]Colossus Repository[/COLOR]" version="0.1" provider-name="Anisixos">
     <extension point="xbmc.addon.repository" name="Anisixos">
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/Anisixos/repository.anisixos.common/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Colossal1/repository.anisixos.common/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/anisixos/repository.anisixos.common/master/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/Anisixos/repository.quicktest.common/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Anisixos/repository.anisixos.common/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/anisixos/repository.quicktest.common/master/</datadir>
     </dir>
-        <info compressed="false">https://raw.githubusercontent.com/Anisixos/repository.anisixos/master/addons.xml</info>
+        <info compressed="false">https://raw.githubusercontent.com/Anisixos/repository.quicktest/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/anisixos.repository.anisixos/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Anisixos/repository.anisixos/master/</datadir>
+        <datadir zip="true">https://raw.githubusercontent.com/Anisixos/repository.quicktest/master/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Home Of 3rd Party Addons</summary>
